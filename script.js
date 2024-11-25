@@ -78,13 +78,13 @@
 
 // bonus task
 
-let a = 15
-let b = 20
+// let a = 15
+// let b = 20
 
+// b = a
+// a = 20
 
-
-console.log(a);
-console.log(b)
-
+// alert(a)
+// alert(b)
 
 
